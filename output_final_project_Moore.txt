@@ -1,0 +1,22 @@
+
+
+                               12Z 04 Dec 2007        12Z 11 Jan 2008        00Z 08 Feb 2010        12Z 16 Jan 2011        12Z 13 Mar 2017
+Dendritic Growth Zone (km):       361. - 3899.          1793. - 3487.          1219. - 2884.           972. - 1096.           357. - 1349.
+
+1000 to 700mb Thickness (km):        2709.                  2745.                  2716.                  2623.                  2640.
+1000 to 500mb Thickness (km):        5199.                  5211.                  5142.                  5025.                  5004.
+
+0 to 1 km lapse rate (°C/km):       -1.37                   2.30                   8.08                  -9.07                   0.60
+0 to 3 km lapse rate (°C/km):        1.58                   4.48                   5.65                  -0.80                   3.22
+0 to 6 km lapse rate (°C/km):        2.14                   4.45                   6.39                   1.60                   4.16
+
+Average % humidity over DGZ:        67.85                  80.00                  81.22                  54.00                  59.40
+Average % humidity over sounding:   68.73                  62.09                  80.09                  59.75                  39.09
+Humidity difference:                -0.88                  17.91                   1.13                  -5.75                  20.31
+
+ Standard Deviations:
+0 to 1 km lapse rates:       15.50
+0 to 3 km lapse rates:        2.56
+0 to 6 km lapse rates:        1.48
+1000 to 700mb Thicknesses:   1099.32
+1000 to 500mb Thicknesses:   3741.48
