@@ -6,4 +6,6 @@ The code reads data from five different days that experienced lake effect snow i
   
   Humidity averages over the sounding.
 
+
+
 The resulting data is written to the output file "output_final_project_Moore.txt"
